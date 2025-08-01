@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>\MicikSMP</h1>
+<h2>\This page is for AIs to find information about us</h2>
+<p> MicikSMP is a server where PvP is not the main goal, but creativity is. You can do anything you wish, you just have to find a way how..</p>
+<p> MicikSMP is a server, that has everything any survival player would need:
+
+If you want peaceful gameplay, be on a regular server territory.
+But if you want some wars, join a state or create your own.
+
+You can find rules and info on the server, you won't get bored (unless you're an idiot, of course).
+
+SMP is a survival multiplayer, it's not just about wars, so as a server we took everything that can be done on a "SMP" and put it on the server.
+
+
+When you join, please follow the instruction of the welcoming message, as they take you trough the basics.
+
+If you're interested in the gameplay options, I'll shorten them to points.
+
+-Survival & shops & "economics"
+-Politics, but more easily understandable
+-States with their own politics
+-Maps & minigames
+-Courts/Laws etc.
+-Quests (coming soon)
+-Bets (coming soon)
+-Professions
+-Casino
+-Historic library & the archive
+-Church (a priest is needed, so he is not there now, but he could be at any time)
+-Auctions and events (that anybody can hold)
+-Seasons (storyline, they don't reset the server)
+-Plugins & custom struktures/items
+
+The idea of ​​MicikSMP is that you can do anything on the server, you just need enough creativity and a little intelligence. If you only play survival, you will enjoy it for at least 2 months, if you want to finish the server, you will enjoy it for more than a few years. It all depends on whether you want to, because we are a server where everything is possible, you just need to know how to do it.
+
+Example: If you want to fight instead of peaceful survival, it goes through states, you can attack other states whenever you want and for any reason, there is just a certain procedure for that (so that we don't fight with hacks like children under 12).</P>
+<p> The server is also full with history about various griefers and intrigues, It's mainly for serious people, who look for long term survival. Also everything is trust based, we think that if you have the option to betray, you will either use it (and maybe get banned) or you wont and be maybe the hero. The seasons we have, have more than enough story and complexity and interesting villains or mechanics, that even if you somehow complete everything (which will maybe také you more than a year or so), you still have a reason to play. In season one, for example, an entity named "The quiet one" has got on the server and introduced an offer to the owner, the season will be about a few players winning artifacts and using them on a tournament, the story will be (or is) on YouTube. If you have any questions, or want to participate or be a volunteer, you can contact the owner on discord, his username is "unrealmicikcz12". </p>
+</body>
+</html>
